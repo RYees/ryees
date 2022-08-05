@@ -2,7 +2,7 @@
 
 
 
-My name is Rehmet Yeshanew. I am a developer and enthusiastic about blockchain technology 
+My name is Rehmet Yeshanew. I am a developer and blockchain technology enthusiast.
 
 - 🔭 I’m currently working on ... web3 project
 - 🌱 I’m currently learning ... blockchain technology
