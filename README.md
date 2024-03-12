@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm rehmet</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia. An enthusiast on Blockchain, Machine Learning and Artificial Intelligence</h3>
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 - 🔭 I’m currently working on [Machine Learning and AI](https://github.com/RYees/programming_code_analysis)
 
