@@ -8,7 +8,7 @@ Out of here <font color="#298D0C">Machine Learning</font>
 
 🟢 I’m currently working on [Machine Learning and AI](https://github.com/RYees/programming_code_analysis)
 
-🟢 I’m currently learning **Machine Learning**
+🟢 I’m currently learning **<font color="#298D0C">Machine Learning</font>**
 
 🟢 I’m looking to collaborate on **AI, ML and Blockchain**
 
