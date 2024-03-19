@@ -8,7 +8,7 @@
 🟢 I’m currently working on [Machine Learning and AI](https://github.com/RYees/programming_code_analysis)
 
 🟢 I’m currently learning **Machine Learning**
-I'm currently learning <span style="color:#298D0C">Machine Learning</span>
+I'm currently learning <span style="color:#298D0C; font-weight:bold">Machine Learning</span>
 
 🟢 I’m looking to collaborate on **AI, ML and Blockchain**
 
