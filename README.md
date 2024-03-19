@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm rehmet</h1>
+<h1 align="center">
+ <img width="48" height="48" src="https://img.icons8.com/emoji/48/000000/vulcan-salute-medium-light-skin-tone.png" alt="vulcan-salute-medium-light-skin-tone"/> rehmet here
+</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia. An enthusiast on Blockchain, Machine Learning and Artificial Intelligence</h3>
 
-- 🔭 I’m currently working on [Machine Learning and AI](https://github.com/RYees/programming_code_analysis)
+🟢 I’m currently working on [Machine Learning and AI](https://github.com/RYees/programming_code_analysis)
 
-- 🌱 I’m currently learning **Machine Learning**
+🟢 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **AI, ML and Blockchain**
+🟢 I’m looking to collaborate on **AI, ML and Blockchain**
 
-- 👨‍💻 All of my projects are available at <a href="https://medium.com/@ryfgmz87/" target="blank"><img align="center" src="https://github.com/RYees/ryees/blob/main/icons8-github.svg" alt="@ryfgmz87/" height="30" width="40" /></a>
+🟢 All of my projects are available at <a href="https://medium.com/@ryfgmz87/" target="blank"><img align="center" src="https://github.com/RYees/ryees/blob/main/icons8-github.svg" alt="@ryfgmz87/" height="30" width="40" /></a>
 
-- 📝 I write articles on <a href="https://medium.com/@ryfgmz87/" target="blank"><img align="center" src="https://github.com/RYees/ryees/blob/main/icons8-medium-64.png" alt="@ryfgmz87/" height="30" width="40" /></a>
+🟢 I write articles on <a href="https://medium.com/@ryfgmz87/" target="blank"><img align="center" src="https://github.com/RYees/ryees/blob/main/icons8-medium-64.png" alt="@ryfgmz87/" height="30" width="40" /></a>
 
-- 📫 How to reach me **ryfgmz87@gmail.com**
+🟢 How to reach me **ryfgmz87@gmail.com**
 
-- ⚡ Fun fact **Like historical documentaries**
+🟢 Fun fact **Like historical documentaries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
