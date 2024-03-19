@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/rehmet-yeshanew-915aa918a/" target="blank"><img align="center" src="https://github.com/RYees/ryees/blob/main/icons8-linkedin.svg" alt="rehmet-yeshanew-915aa918a/" height="30" width="40" /></a>
 </span>
 <span align="left">
-<a href="https://linkedin.com/in/rehmet-yeshanew-915aa918a/" target="blank"><img align="center" src="https://github.com/RYees/ryees/blob/main/icons8-email.png" alt="rehmet-yeshanew-915aa918a/" height="30" width="40" /></a>
+<a href="mailto:ryfgmz87@gmail.com" target="blank"><img align="center" src="https://github.com/RYees/ryees/blob/main/icons8-email.png" alt="rehmet-yeshanew-915aa918a/" height="30" width="40" /></a>
 </span>
 
 <h3 align="left">Languages and Tools:</h3>
