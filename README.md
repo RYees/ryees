@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryees](https://github.com/ryees)
 
-- 📝 I regularly write articles on [medium](medium)
+- 📝 I regularly write articles on [medium]([medium](https://medium.com/@ryfgmz87))
 
 - 📫 How to reach me **ryfgmz87@gmail.com**
 
