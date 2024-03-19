@@ -4,8 +4,8 @@
 <h3 align="center">Enthusiast on Blockchain, Machine Learning and Artificial Intelligence</h3> 
 <br><br/> 
 <br><br/> 
-
-🟢 I’m currently working on [Machine Learning and AI](https://github.com/RYees/programming_code_analysis)
+<span style="color:red">some *red* text</span>.
+🟢 I’m currently working on [Machine Learning and AI](https://github.com/RYees/python_code_analysis)
 
 🟢 I’m currently learning **Machine Learning**
 
