@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ryees](https://github.com/ryees)
 
-- 📝 I regularly write articles on [(https://medium.com/@ryfgmz87)]
+- 📝 I regularly write articles on [(https://medium.com/@ryfgmz87)] <a href="https://medium.com/@ryfgmz87/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/icons8-medium.svg" alt="@ryfgmz87/" height="30" width="40" /></a>
 
 - 📫 How to reach me **ryfgmz87@gmail.com**
 
