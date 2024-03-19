@@ -8,14 +8,13 @@
 🟢 I’m currently working on [Machine Learning and AI](https://github.com/RYees/programming_code_analysis)
 
 🟢 I’m currently learning **Machine Learning**
+I'm currently learning <span style="color:#298D0C">Machine Learning</span>
 
 🟢 I’m looking to collaborate on **AI, ML and Blockchain**
 
 🟢 All of my projects are available at <a href="https://medium.com/@ryfgmz87/" target="blank"><img align="center" src="https://github.com/RYees/ryees/blob/main/icons8-github.svg" alt="@ryfgmz87/" height="30" width="40" /></a>
 
 🟢 I write articles on <a href="https://medium.com/@ryfgmz87/" target="blank"><img align="center" src="https://github.com/RYees/ryees/blob/main/icons8-medium-64.png" alt="@ryfgmz87/" height="30" width="40" /></a>
-
-🟢 How to reach me **ryfgmz87@gmail.com**
 
 🟢 Fun fact **Like historical documentaries**
 
