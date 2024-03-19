@@ -3,8 +3,6 @@
 </h1>
 <h3 align="center">Enthusiast on Blockchain, Machine Learning and Artificial Intelligence</h3> 
 <br><br/> 
-<span style="color: #FF69B4;">Why did the tomato turn red?</span>
-<span style="color: #00FFFF;">Because it saw the salad dressing!</span>
 <br><br/> 
 
 🟢 I’m currently working on [Machine Learning and AI](https://github.com/RYees/python_code_analysis)
