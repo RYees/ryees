@@ -1,10 +1,8 @@
 <h1 align="center">
  <img width="48" height="48" src="https://github.com/RYees/ryees/blob/main/icons8-vulcan.png" alt="vulcan-salute"/> selam
 </h1>
-<h3 align="center">Enthusiast on Blockchain, Machine Learning and Artificial Intelligence</h3> 
+<h3 align="center">An Enthusiast on Blockchain, Machine Learning and Artificial Intelligence</h3> 
 <br><br/> 
-<br><br/> 
-
 🟢 I’m currently working on [Machine Learning and AI](https://github.com/RYees/python_code_analysis)
 
 🟢 I’m currently learning **Machine Learning**
