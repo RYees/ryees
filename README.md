@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">An Enthusiast on Blockchain, Machine Learning and Artificial Intelligence</h3> 
 
-🟢 I’m currently working on [Machine Learning and AI](https://github.com/RYees/python_code_analysis)
+🟢 I’m currently working on [Machine Learning and AI] project
 
 🟢 I’m currently learning **Machine Learning**
 
