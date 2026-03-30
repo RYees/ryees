@@ -1,5 +1,5 @@
 <h1 align="center">
- <img width="48" height="48" src="https://github.com/RYees/ryees/blob/main/icons8-vulcan.png" alt="sunglasses"/> selam
+ <img width="48" height="48" src="https://github.com/RYees/ryees/blob/main/icons8-vulcan.png" alt="vulcan-salute"/> selam
 </h1>
 <h3 align="center">An Enthusiast on Blockchain, Machine Learning and Artificial Intelligence</h3> 
 
